@@ -1,32 +1,15 @@
-# to github:
-# PLEASE DONT DMCA THIS REPOSITORY, NO GAME ASSETS OR INTELLECTUAL PROPERTY IS HOSTED HERE, ALL FILES HERE ARE MADE, AND CODED BY, ME (genizy/breadbb)
 
-# gn-math.github.io
-gn-math is the best unblocked games site to play at school.
-## features:
-- hundreds of links (in the discord)
-- games literally NOBODY has:
-  - most youtube games (bowmasters, magic tiles 3, flappy dunk, hill climb racing, etc.)
-  - drive mad poki version (200 levels)
-  - cheese chompers 3d
-  - bad parenting
-  - all fnafs
-  - r.e.p.o. (1-world)
-  - ultrakill
-  - people playground
-  - do not take this cat home
-  - bendy and the ink machine
-  - buckshot roulette
-  - that's not my neighbor
-  - class of '09
-  - a bite at freddy's
-  - half life
-  - quake III
-  - speedstars (steam ver)
-  - webfishing
-- static site so easily deployable
-- works in file:
-- custom software to get almost ANY game
+<img width="1280" height="720" alt="HOLY CARP (1)" src="https://github.com/user-attachments/assets/d39ea743-995b-4935-95a6-a4589c99d97e" />
 
-JOIN OUR DISCORD: https://discord.gg/NAFw4ykZ7n
-
+# HOLY SALMON
+welcome to my shitty site
+## How was this made?
+its an edited fork of gn-math (im too stupid to code a whole site from scratch)
+## Do you add games?
+If you give me an actual reason to (google form in site)
+## Why are you so rude?!
+sybau bro ts pmo sm
+## How would I deploy this?
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Ften8mystery%2FHoly-Salmon-1"><img src="https://vercel.com/button" alt="Sybau and deploy"/></a>
+## Wheres a list of official links?
+https://1drv.ms/w/c/ad36d84972f58b73/EdupM9IxWAJPpUGGzDLhSPYB7uEJcHUWeOGX_W0YjQX8LQ?e=7bcXd1
