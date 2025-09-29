@@ -1,5 +1,5 @@
 :root {
-    --primary: #fc2651;
+    --primary: #FF355E;
     --primary-hover: #e91e47;
     --primary-light: rgba(252, 38, 81, 0.1);
     --primary-lighter: rgba(252, 38, 81, 0.05);
@@ -604,4 +604,5 @@ footer {
     }
 
 }
+
 
