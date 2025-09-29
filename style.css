@@ -33,7 +33,7 @@
 }
 
 .dark-mode {
-    --primary: #000000;
+    --primary: #FF0000;
     --primary-hover: #ff4d75;
     --primary-light: rgba(252, 38, 81, 0.15);
     --primary-lighter: rgba(252, 38, 81, 0.08);
@@ -604,3 +604,4 @@ footer {
     }
 
 }
+
